@@ -17,7 +17,7 @@ body {
 
   
   #section1 {
-    background-image: <img src="media/makeup.jpeg"
+    background-image: url('/Desktop/assignment/media/makeup.jpeg');
   }
   
   #section2 {
