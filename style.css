@@ -17,19 +17,19 @@ body {
 
   
   #section1 {
-    background-image: url('https://github.com/jpp9253/scrolling/blob/f43ba5a001d0f79641c1d0e08e57f5aa625c090a/makeup.jpeg');
+    background-image: url('media/makeup.jpeg');
   }
   
   #section2 {
-    background-image: url('assignment/media/sushi.jpeg');
+    background-image: url('media/sushi.jpeg');
   }
   
   #section3 {
-    background-image: url('assignment/media/music.jpeg');
+    background-image: url('media/music.jpeg');
   }
   
   #section4 {
-    background-image: url('assignment/media/sneakers.jpeg');
+    background-image: url('media/sneakers.jpeg');
   }
   
   .content {
