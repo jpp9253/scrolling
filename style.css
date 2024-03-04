@@ -17,19 +17,19 @@ body {
 
   
   #section1 {
-    background-image: url('media/makeup.jpeg');
+    background-image: url('assignment/media/makeup.jpeg');
   }
   
   #section2 {
-    background-image: url('media/sushi.jpeg');
+    background-image: url('assignment/media/sushi.jpeg');
   }
   
   #section3 {
-    background-image: url('media/music.jpeg');
+    background-image: url('assignment/media/music.jpeg');
   }
   
   #section4 {
-    background-image: url('media/sneakers.jpeg');
+    background-image: url('assignment/media/sneakers.jpeg');
   }
   
   .content {
